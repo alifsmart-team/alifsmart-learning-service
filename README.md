@@ -1,8 +1,14 @@
-# alifsmart-learning-service
+# alifsmart-student-service
 
-# this service ran a function as :
-- Attendance Record
-- Content & Game Management
-- Learning Analytic
-- Auto Badge Assignment
-- Notification Trigger
+# function :
+- Galeri Karya
+- Monitoring Perkembangan Anak
+
+# database :
+- students -> profil lengkap
+- parents -> data orang tua
+- student_assignment -> tugas siswa (read-only)
+
+# dashboard allocation :
+- Orang Tua
+- Siswa

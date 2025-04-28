@@ -4,7 +4,7 @@
 - Galeri Karya
 - Monitoring Perkembangan Anak
 
-# database :
+# tables :
 - students -> profil lengkap
 - parents -> data orang tua
 - student_assignment -> tugas siswa (read-only)

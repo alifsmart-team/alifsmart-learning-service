@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import ParentDashboard from './components/ParentDashboard';
-import StudentDashboard from './components/StudentDashboard';
+import ParentDashboard from './pages/ParentDashboard';
+import StudentDashboard from './pages/StudentDashboard';
 import React from 'react';
 
 function App() {

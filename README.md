@@ -10,6 +10,4 @@
 - teachers -> data guru
 - student_assignment -> tugas siswa (read-only)
 
-# dashboard allocation :
-- Orang Tua
-- Siswa
+
